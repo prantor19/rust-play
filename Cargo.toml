@@ -1,0 +1,11 @@
+[workspace]
+members = [
+  "ex-trait",
+  "ex-trait-lib",
+  "rc",
+  "server",
+  "tokio-ex",
+  "misc",
+  "http-server",
+  "actx-web",
+]
